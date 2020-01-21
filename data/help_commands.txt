@@ -1,0 +1,101 @@
+HELP|This information
+QUIT|Quit the game
+NEWS|See the latest news about the game.
+MSGTOADMIN|This command will send a message to the administrators of the game.  However, they will not be able to reply to you.
+GNOTE|This command will send a message to the administrators of the game.  However, they will not be able to reply to you.
+CHAT|Send message to *all* players in the game.
+COLOUR|Toggle colours on and off.
+COLOR|Toggle colours on and off.
+COLOURS|Toggle colours on and off.
+COLORS|Toggle colours on and off.
+
+N|Move in that direction
+S|Move in that direction
+E|Move in that direction
+W|Move in that direction
+NORTH|Move in that direction
+SOUTH|Move in that direction
+EAST|Move in that direction
+WEST|Move in that direction
+FLEE|Move in a random direction, usually to escape a fight.  Don't be surprised if your enemy follows you though.
+RUN|Move in a random direction, usually to escape a fight.  Don't be surprised if your enemy follows you though.
+EXIT|Return to the location you were last in.
+
+LOOK|Get the description of your location again.
+INV|See what you are carrying
+STATS|See your current stats.
+GET|Pickup an item near you.  You can also use GET ALL to pickup everything.  Also, note that when you kill someone, all their items appear in the location; you don't need to search the corpse.
+DROP|Drop an item you are carrying
+
+EXAMINE|Examine an item or person.
+EXAM|Examine an item or person.
+CON|Examine an item or person.
+CONSIDER|Examine an item or person.
+LOOK AT|Examine an item or person.
+
+USE|Make an item your "current" item, or use it in the most appropriate way.
+REMOVE|Un-wield an item.
+GREET|Greet someone.
+SAY|Say something out loud to no-one in particular.  For example "SAY HELLO".  You can use " (a quote) also.
+SAY TO|Direct speech at someone in particular (though everyone else in the room will still hear it unless you use the WHISPER command) e.g. 'SAY HELLO TO POLICEMAN".
+WHISPER|Say something so only the target can hear.  e.g. WHISPER TO WAITRESS MEET ME LATER.
+TIME|Get the current game time.
+READ|Read something
+WRITE|Write on something, normally the San Torino Community Noticeboard.
+LIST|Get a list of items for sale.
+BUY|Buy something, e.g. 'BUY UZI'.
+EAT|Eat something (preferrably edible).
+DRINK|Drink something (preferrably drinkable).
+JUNK|Destroy an item you don't want any more.
+
+GASP|Perform those actions
+NOD|Perform those actions
+GRIN|Perform those actions
+SMILE|Perform those actions
+LAUGH|Perform those actions
+WAVE|Perform those actions
+
+FUCK|Attempt to copulate with another character.
+SHAG|Attempt to copulate with another character.
+BONE|Attempt to copulate with another character.
+KISS|Kiss another character.
+TOUCH|Touch another character.
+
+EMOTE|Emote in the way you describe, e.g. 'EMOTE shakes feverishly'.  You can use : instead.  E.g. ":smiles".
+EMOTION|Emote in the way you describe, e.g. 'EMOTE shakes feverishly'.  You can use : instead.  E.g. ":smiles".
+EMOTIONS|Emote in the way you describe, e.g. 'EMOTE shakes feverishly'.  You can use : instead.  E.g. ":smiles".
+GIVE|Give something to someone, e.g. GIVE PIZZA TO TERRORIST.  To give money, type GIVE [amount] TO [person], e.g. 'GIVE 10 TO HENCHMAN'.
+
+ATTACK|Attack someone, e.g. PUNCH MUGGER.  Unlike most other mud's, you must enter the attack command each time.  You can't just type in the command once and then sit back and wait for the fight to finish.
+PUNCH|Attack someone, e.g. PUNCH CRIMINAL.  Unlike most other mud's, you must enter the attack command each time.  You can't just type in the command once and then sit back and wait for the fight to finish.
+COMBAT|Attack someone, e.g. PUNCH HIPPY.  Unlike most other mud's, you must enter the attack command each time.  You can't just type in the command once and then sit back and wait for the fight to finish.
+
+SHOOT|Shoot someone if you are carrying a gun.
+SET DESC|This will set the description that other people see when they examine you.  E.g. "SET DESC He is tall and handsome."
+
+MONEY|The currency of San Torino is the dollar.  To give money to someone, enter 'GIVE [amount] TO [whoever], e.g. 'GIVE 5 TO POLICE'.
+CASH|The currency of San Torino is the dollar.  To give money to someone, enter 'GIVE [amount] TO [whoever], e.g. 'GIVE 5 TO POLICE'.
+
+WEAPONS|To use a weapon, either enter 'ATTACK [whoever]' or 'SHOOT [whoever]' depending on whether you want to shoot or fight.
+FLUSH|Flush an item, usually a toilet.
+SAVE|Save the game.  You must be in the hotel reception.  All your cash will be saved, but only the item you are holding is saved.
+WANTED LEVEL|This indicates whether you are wanted by the police, and the higher it is, the more resources they will devote to trying to get you.  There is no maximum, but don't expect to survive much above 6!
+WANTED|This indicates whether you are wanted by the police, and the higher it is, the more resources they will devote to trying to get you.  There is no maximum, but don't expect to survive much above 6!
+HOTEL|This is the only place where you can save the game.  It is located towards the South-East of the city.
+NEWBIE|If you're new, here's a few tips: * talk to people; * investigate everything; * get someone on your side.
+HEAL|The best place to try and heal is the hospital.
+SLEEP|You do not need to sleep in this game.  f you wish to save the game, try the Hotel.
+WHO|This will tell you who is currently playing the game, and a few minor details about them.  To communicate globally with them (so all players see your text) use the CHAT command.
+HEALTH|This is how much harm you can take before you die.  The maximum is usually 100.  You can be healed by using medikits, though your health does go up slowly over time.
+STAT|This will inform you about your characters stats, such as health and wanted level.  There are other "invisible" stats such as thirst and hunger, but you will be informed when these are low.
+JOB|To get a job, try reading notices or talking to people.
+HUNGER|Over time your character will get hungry.  To counteract this, try buying and eating food.
+THIRST|Over time your character will get thirsty.  To counteract this, try buying drinks.
+ASK|Ask someone a question.  For example 'ASK HOOKER HOW MUCH DO YOU CHARGE?"
+POLICE|These are the people that stop San Torino falling into lawlessness.  They are difficult to beat and have plenty of backup.  Keep out of their way, especially if you have a wanted level.
+SEX|Try 'shag' or 'fuck'.
+ROB|You can rob a place in one of two ways: either ask the cashier (or whoever) to hand over the money, or just enter ROB.
+HIRE|Sometimes you can hire people by giving them money.
+GAMBLE|This normally involves roulette.  Enter something like "PUT 5 ON RED".
+GAMBLING|This normally involves roulette.  Enter something like "PUT 5 ON RED".
+ROULETTE|Enter something like "PUT 5 ON RED".

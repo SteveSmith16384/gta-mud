@@ -1,0 +1,44 @@
+NO|INTERNAL|WANDERABLE|NAME|DESC|EXITS|
+1|N|N|The Bridge|You are stood on the edge of an earthquake-damaged bridge at the edge of the city.  To the North is downtown San Torino, with it's gleaming skyscrapers and dirty sidewalks.|N2|
+2|N|Y|Red Light District|You are on the main road in the centre of the city.  To the North is the M.F. Chicken fast-food restaurant, and to the South is the main exit bridge from the city.  The road runs from East to West.|N6~S1~E8~W7|
+3|Y|Y|Hospital|You are in San Torino Hospital.  It's a pretty dirty place, with blood on the walls and what look like holes from gunshots.  The only exit is to the West.|W10|
+4|Y|N|AmmoNation|You are inside the gun shop AmmoNation.  It would be more like a hardware store if it weren't for all the weapons on display.  The exit is to the North.|N7|
+5|Y|Y|Police Station.|You are inside the police station.  There are posters on the wall of various characters, each with a bounty on their heads.  The exit is to the West which leads back out onto the street.|W9|
+6|Y|Y|Motherfucker Chicken|You are inside the fast food joint 'Motherfucker Chicken', which is furnished with lovely plastic tables and pictures of delicious-looking burgers.  The exit is to the South.|S2|
+7|N|Y|Stanton Blvd|You are on a busy bend in the road.  To the South is your local branch of the AmmoNation franchise and to the East is the Red-Light District.  The road also runs to the North and West.|N9~S4~E2~W42|
+8|N|Y|Queens|You are at a steep bend in the road that runs from North to West.  To the South is the Hard-Cock Cafe, and to the East is a hotel.|N10~S16~E38~W2|
+9|N|Y|Redmond Drive|It's an uphill road that runs from North to South.  To the East is the Police Station.|N11~S7~E5
+10|N|Y|Fifth Avenue|You are on a busy main road running North to South.  To your East is the busy San Torino Hospital, and to the West is a pawn shop.|N13~S8~E3~W39|
+11|N|Y|Santa Fey Blvd|Its a busy road which leads North, East and South.  To the West is an abandoned warehouse.|N18~S9~E12~W15
+12|N|Y|First Avenue|It's another busy road that runs from East to West, and there is small cull-de-sac to the North.|N40~E13~W11
+13|N|Y|Portland Way|Its a busy road that goes North to South, though there is a turning leading West.  To the East, the flashing neon sign of Shitzy's Nightclub burns into the sky.|N22~S10~E14~W12
+14|Y|Y|Shitzy's Nightclub|You are inside Shitzy's Nightclub - a tacky club with a sticky floor and scantily-clad waitresses.  It is over-25's night which means that everyone is at least 40.  The exit is West, but there seems to be a dancefloor to the East.|E27~W13|
+15|Y|N|Abandoned Warehouse|You are inside an old warehouse.  It was abandoned, but by the old clothes and scorch marks on the floor, it looks like somone might call this home.  The exit is to the East.|E11
+16|Y|Y|Hard-Cock Cafe|You're in the trendiest bar in San Torino, though no celebs seem to be here at the moment.  The leather seats and plastic tables give it an air of sophistication.  The main exit is to the North, though there are some toilets to the East.|N8~E33|
+17|Y|N|Mafia House|You are inside the mafia house.  It's ornate decorations and expensive design shows that crime does pay.  The main exit is to the West, but a small door leads to the North.|N21~W40|
+18|N|Y|Sten Street|You are in a city-centre street. To the West is the Bank of San Torino, to the East is San Torino park, and to the North is a forest.  The only other exit is the road going South.|N36~S11~E24~W19|
+19|Y|Y|Bank of San Torino|You are inside the Bank of San Torino.  There is a small row of counters, and some seating around the edge.  The exit is to the East, though there is a doorway to the West.|E18~W20|
+20|Y|N|The Vault|You are in the vault of the Bank of San Torino.  There are hundreds of small drawers, all numbered, but all of them locked.  The only exit is to the East.|E19|
+21|Y|N|Gambling Room|You are in a dimply lit room.  In the centre is a green-beize table.  Shadows surround the edge of the room.  The only exit is back out South.|S17|
+22|N|Y|Vine Street|You are in the middle of a long road.  It goes further into the distance both to the North and South, but you can see a small inconspiquous doorway leading East.|N30~S13~E23|
+23|Y|N|Kneecaps Casino|You are in San Torino's famous Kneecaps Casino.  You can see all the major gambling games being played.  The roulette room is to the East, and there seems to be slot machines to the North.  The exit is to the West.|N26~E25~W22|
+24|N|N|Park|You are in San Torino park.  It is surrounded by a brick wall, and so there is no other exit apart from West.  But it all looks very pretty.|W18|
+25|Y|N|Roulette Room|You are in the roulette room of the casino.  The green beize roulette table is in front of you, waiting for money to be placed on it.  The only exit is to the West.|W23|
+26|Y|N|Slots Room|This room is full of slots machines, all advertising massive payouts.  The exit is to the South, though there are some toilets to the North.|N35~S23|
+27|Y|N|Dancefloor|It's difficult to make anything out due to the disco lights that are flashing everywhere.  It's a good job you're not epileptic.  The only exit is West leading to the nightclub bar.|W14|
+28|Y|Y|Chinese Takeaway|You are in a chinese takeaway 'Fat Sun'.  The exit is to the North, but there seems to be some steam coming from the door to the West.|N42~W29|
+29|Y|N|Kitchens|You are in the kitchens of the chinese restaurant.  Pans are steaming away on the hobs, and there are various cooking implements lying around.  The only exit is to the East.|E28|
+30|N|Y|Belvedere Close|You are in the affluent area of town.  Finely manicured lawns and high security fences surround you.  The road only leads back South, but there is a house to the East and a forest to the West.|S22~E31~W37|
+31|Y|Y|Mansion|You are inside a smart mansion.  Fine art and expensive furniture surround you.  West leads back outside, but there are some stairs leading up.|W30~U32|
+32|Y|N|Bedroom|You are in a large bedroom.  There is an ornate four-poster bed in the middle. The only exit is back down the stairs.|D31|
+33|Y|N|Bar Toilets|You are in the toilets of the bar.  The floor is a bit damp, and there is a funny smell in the air, like a combination of perfume and urine.  The only visible exit is West leading to the bar.|W16~E34X|
+34|Y|N|Massage Parlour|You are in a dimly lit room with no windows; the walls are covered in delicate calming paintings of scenic views, and gentle lights light up the shadows.  There is soft music playing in the background, and the air smells of sweet perfume.  There are doors leading West and South.|S35~W33|
+35|Y|N|Casino Toilets|You are in the toilets of the casino.  The floor is a bit damp, and there is a funny smell in the air, though it smells partly of perfume.  The only visible exit is South leading to the bar.|N34X~S26|
+36|N|Y|Forest|You are in the middle of a dense forest.  The trees are thick, but you can probably manage to squeeze through them in any direction.|N37~S37~E30~W36|
+37|N|Y|Forest|You are in the middle of a dense forest.  The trees are thick, but you can probably manage to squeeze through them in any direction.|N36~S18~E36~W37|
+38|Y|N|Hotel Reception|You are in the reception area of the hotel Marvelloso Etchelento.  The only exit is to the West.  If you would like to save the game, enter 'SAVE'.|W8|
+39|Y|Y|Pawn Shop|You are in a pawn shop.  There is a shop counter, but it is behind a metal grill.  Various junk items adorn the shelves.  The only exit is to the East.|E10|
+40|N|Y|Little Italy|You are standing in the main square of San Torino's own little piece of Italy.  To the East is a large expensive house, though the 'Keep Out' sign daubed with blood ensures door-to-door salesmen are kept at bay.  To the West is Pizza Al-Fornicate.  The road also leads back South.|S12~E17~W41|
+41|Y|Y|Pizza Al-Fornicate|You are in the italian pizza.  The smell of freshly-made pizza dough wisps around your ears.  The only exit is East.|E40|
+42|N|Y|Chinatown|You are in the middle of San Torino's Chinatown.  There is a laundrette to the North, and a chinese takeaway to the South.  The only other exit is to the East.|N43~S28~E7|
+43|Y|Y|Loopy Laundry|You are inside the laundrette of Mr Wong.  Washing machines line the walls, and the air is thick with the smell of soap powder.  The only exit is South.|S42|

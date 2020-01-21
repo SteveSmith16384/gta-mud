@@ -1,0 +1,16 @@
+                 SAN TORINO
+
+This only shows major landmarks and well-known establishments.
+
+        |                         |
+   Bank + Park                    |
+        |--------------+----------+ Nightclub
+        |                         |
+        + Police    Takeaway      + Hospital
+        |               |         |
+Chinese-+---------------+---------+
+        |               |        Bar
+      Shop              |
+                     *You are
+                       Here*
+

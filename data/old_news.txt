@@ -1,0 +1,98 @@
+OLD NEWS:
+
+30/5/07 - Multi-player games fans - visit NewGame at http://ng.game-host.org to organise all your on-line gaming.
+
+29/5/07 - Crikey, has it really been 10 months?
+
+24/7/06 - Oops.  I let the game run for a week unsupervised, and have just seen the big bug I left in.  Should be sorted now.  Sorry!
+
+11/7/06 - You can now join a criminal organisation.
+
+9/7/06 - Hopefully there shouldn't be quite so many corpses now.  The Mafia and Yakuza gangs have been trimmed.
+
+8/7/06 - The description now explicitly tells you visible exits.
+
+5/7/06 - You can now do a "job".  (i.e. work, not as in "bank job", though you can obviously do those as well).
+
+4/7/06 - When you reload your character it now *doesn'*t delete your saved game.
+
+4/7/06 - You can now differentiate between identical items with (e.g.) "2.medikit".
+
+1/7/06 - There is now a "hunger" factor for characters.
+
+1/7/06 - New location, and now we have colour!
+
+29/6/06 - A lot of the commands should now work instantly, rather than wait for the next game "pulse".
+
+27/6/06 - You can now save your character.
+
+20/6/06 - GTA-MUD now has another new 'event'.
+
+20/6/06 - There are now less policeman at night.
+
+19/6/06 - You can now become a bounty hunter by joining the police.
+
+17/6/06 - It will now get a lot harder when your wanted level gets too high!
+
+17/6/06 - There is now a "thirst" factor for characters.
+
+16/6/06 - You can now set a description for your character.
+
+16/6/06 - The game should work better in Telnet applications.
+
+15/6/06 - The help system has been reworked.
+
+14/6/06 - The output now prints a blank line before each "turn" to make it easier to identify new text.
+
+14/6/06 - The security guards and police now *don't* shoot each other.
+
+13/6/06 - The spelling of 'gangster' has now been corrected!
+
+12/6/06 - It now confirms your name and career, to avoid any confusion.
+
+12/6/06 - You can now properly rob the bank.
+
+12/6/06 - The lag after entering something has been reduced.
+
+11/6/06 - There was a pretty major bug that meant anyone not trying to connect using a basic telnet program got garbage back, and thus couldn't play.  This has now been corrected.
+
+9/6/06 - You've probably already seen it, but there is a small map of San Torino in the first location.
+
+8/6/06 - There was a small problem with the new "wanted level feature" - even the police were wanted!  So civil war quickly ensued.  All sorted now.
+
+6/6/06 - Players now have a wanted level.  Avoid the police if you're wanted!
+
+3/6/06 - You can now gamble in the casino.
+
+31/5/06 - Two more locations have been added.  Sorry, no clues as to where they are!
+
+31/5/06 - Yes, the GET ALL command didn't quite work.  It does now.
+
+30/5/06 - A new establishment has opened in San Torino.
+
+30/5/06 - I'm afraid the medikit won't be regenerating quite as often as it used to.
+
+27/5/06 - You can now refer to other characters and items by just the first few characters of their name.
+
+26/5/06 - The "game loop" now pauses for an extra second when fighting occurs, to give the protagonists chance to read all the output.
+
+26/5/06 - There seemed to be a bug yesterday causing unkillable zombie policemen to walk around.  This has been sorted now!  (Thanks to Vitae for the notice).
+
+26/5/06 - Thanks to everyone who leaves comments and suggestions.  They are obviously all read.  However, if you would like a reply, please send them via email instead of using the MSGTOADMIN comamnd, as that doesn't tell me who I can reply to.
+
+25/5/06 - When you pick up an item, it now *doesn't* become your current item if you already have one. (Thanks to Vitae for that!).
+
+22/5/06 - Someone has completed the first mission!  Well done to Mofo!  Maybe I need to make it harder...
+
+21/5/06 - Please visit the GTA-MUD forums to read or submit comments and suggestions.  They are on the GTA-MUD website, at http://www.carlylesmith.karoo.net/gta-mud/.
+
+21/5/06 - We now have our first mission!  No clues as to where to find it though.
+
+20/5/06 - I'm afraid we had a period of outage on Saturday 20th May from approx 10am to 8pm, due to me misconfiguring the domain name.  All should be working now.
+
+18/5/06 - Try out Shitzy's Nightclub for a great night out, or the Hard-Cock Cafe for some light refreshments.
+
+15/5/06 - Please bear in mind the game is at a very early stage!
+
+15/5/06 - Please email any and all comments to gta-mud@carlylesmith.karoo.co.uk.
+

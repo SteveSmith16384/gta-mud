@@ -1,0 +1,43 @@
+TYPE|NAME|DESC|BULLETS|DAM|COST|EDIBLE|CARRYABLE|PERM|
+1|Stick|It's a long wood stick.  Used to be part of a tree in a former life.|0|5|1|N|Y|N|
+2|AK47|It's a Russian-built machine gun.|20|30|100|N|Y|N|
+3|MediKit|It contains plasters and ointment and things.|0|1|20|N|Y|N|
+4|Pistol|It's a Walther PPK.|10|15|40|N|Y|N|
+#5|Grenade|It is a small explosive device.||Y|N|
+6|Lager|It looks like a flat, foreign lager.|0|2|2|Y|Y|N|
+7|Burger|It is a flat, crusty dry burger, strangely disimilar to the picture in the advert.|0|1|1|Y|Y|N|
+8|Corpse||0|0|0|0|Y|Y|N|
+9|Uzi|It is a short machine-pistol.|15|20|75|N|Y|N|
+10|Knife|It is a long hunting knife.|0|10|20|N|Y|N|
+11|Shot|It is a shot of cheap liquor|0|2|2|Y|Y|N|
+12|Poster|~defined~|0|0|0|N|N|Y|
+13|G&T|It's got a nice slice of lime in it, on the rocks.|0|3|2|Y|Y|N|
+14|Fries|They are long and thin, and covered in salt.|0|00|1|Y|Y|N|
+15|Newspaper|~defined~|0|0|1|N|Y|Y|
+16|Shotgun|It's a sawn-off shotgun.|8|25|75|N|Y|N|
+17|Beer|It says it's made with water and hops.|0|2|2|Y|Y|N|
+18|Cashcard|It was issued by the bank of San Torino|0|0|0|N|Y|Y|
+19|Pepperspray|It looks like a small can of deodorant|5|0|10|N|Y|N|
+20|Leaflet|~defined~|0|0|0|N|Y|Y|
+21|Cards|It is a standard deck of cards for gambling.|0|0|0|N|Y|Y|
+22|Noticeboard|It contains notices left by other visitors to San Torino.  To read the messages, just enter 'READ NOTICEBOARD'.  To leave a message, type 'WRITE [message]'.|0|0|0|N|N|Y|
+23|Key|It is a plain key, but the keyring it is attached to says 'Drawer 735'.|0|0|0|N|Y|Y|
+24|Plaque|It is a brass plaque next to the doorway.  It just has the word 'Kneecaps' written on it.|0|0|0|N|N|Y|
+25|Map|~defined~|0|0|0|N|N|Y|
+26|Package|It's a large plain brown envelope about the size of a video cassette, but not the right shape for one.  There's nothing written on it though.|0|0|0|N|Y|Y|
+27|Note|~defined~|0|0|0|N|Y|Y|
+28|Noodles|It's a large bowl of noodles covered in Hoi Sin sauce.  Mmm, delicious.|0|0|2|Y|Y|N|
+29|Poo|It's white and crusty, like it's been in the sun for a while.|0|0|0|N|Y|N|
+30|Cigs|They are extra-tar maxi-death Kilburns brand.  The logo says "Smoke!  And smoke Kilburns!"  There seems to be some left in the packet.|0|0|1|N|Y|N|
+31|Coke|It's a polystyrene cup full of fizzy coke.  At least you think there's coke in there; it seems to be full of ice-cubes.|0|0|1|Y|Y|N|
+32|Water|It's cool refreshing water.|0|0|1|Y|Y|N|
+33|Picture|@defined@|0|0|0|N|Y|Y|
+34|Bed|The covers haven't been made, and it still feels warm.|0|0|0|N|N|Y|
+35|Toilet|It's a basic toilet, but it's kicking off a right pong.  Someone has forgotten to flush it, and there's a floater in it that's making you queazy.|0|0|0|Y|N|Y|
+36|MassageOil|It is a bottle of oil used for giving sensuous massages.|0|0|1|Y|Y|Y|
+37|Bed|It is of a special design to be ergonomically comfortable.|0|0|0|N|N|Y|
+38|Vomit|It's slightly pinky-brown in colour, and seems to have chunks of carrot in it.|0|0|0|Y|N|Y|
+39|Pizza|~defined~|0|0|2|Y|Y|N|
+40|MeatCleaver|It's a thick-bladed knife used for cutting meat.|0|15|25|N|Y|N|
+41|Notice|~defined~|0|0|0|N|N|Y|
+42|DailyMail|~defined~|0|0|1|N|Y|Y|

@@ -1,0 +1,37 @@
+TYPE|NAME|DESC|SEX|WANDER CHANCE|HEALTH
+1|Hooker|She's a sweaty-looking women wearing a short skirt with fishnet tights and a low-cut top, showing as much of her body off as she can.|F|1|18
+2|Doctor|He's wearing a white (though severely bloodstained) coat and has a stethoscope around his neck.  His ID badge confirms his identity.|M|1|18
+3|Gangmember|They look like a hard-nosed mercenary, willing to do anything for money, except have his 80's-style pony-tail cut off.|M|25|20|
+4|Policeman|A run of the mill cop wearing the uniform of the ST-PD.  Maybe they clone them.|M|20|20
+5|Dog|It's a big rotweiller.  You're sure you can see blood around it's mouth.|M|1|30
+7|Punk|A punky-looking character.|M|20|20|
+8|Shopkeeper|He's a gruff man with a grey beard and wearing a brown apron.|M|1|18
+9|Geezer|An ex-muso; now a wino.  From his accent, he sounds like a cockney.|M|1|18
+10|Barmaid|She's a women in her mid-twenties, wearing a lovely low-cut top to give the drinkers something to look at whilst they drown their sorrows.|F|1|18
+11|Assistant|He's wearing the special uniform of Motherfucker Chicken.|M|1|18
+12|Desk-Sergeant|A desk seargent, ready to take the details of the crime, no matter how menial.  He loves them forms.|M|1|20
+13|Bouncer|A big burly bouncer.  Looks like he's had all the pies.|M|1|18
+14|Mugger|He's a shifty-looking character wearing a hoodie so you can't get a good look at his face.|M|20|18
+15|Barfly|His greasy hair and nervous demeanor indicate he's an alcoholic.  He has problems that need solving.|M|1|18
+16|MafiaDon|He's wearing a very expensive suit, and has immaculately quiffed hair.|M|1|30
+17|BodyGuard|He's wearing all black, including some black sunglasses.  He seems to have some kind of wire going to his ear.|M|1|20
+18|Addict|They are wearing bedraggled clothes, and have greasy hair and dubious personal hygiene.  They also seem to be shaking.|M|1|20|
+19|SecurityGuard|They are wearing the regulation security guard's outfit, though it looks a bit big for them.|M|1|18|
+20|Teller|She is wearing the Bank of San Torino uniform.|F|1|18|
+21|Flasher|He is wearing a long brown raincoat, and not much else apart from shoes.|M|1|18|
+22|GamblingLady|She is an old wrinkled woman of at least 100, hunched over the machine examining it's wheels through jam-jar lenses.|F|1|18|
+23|Croupier|He is a young man wearing the Casino uniform.|M|1|18|
+24|Pimp|He is wearing a dapper suit and a big-rimmed purple hat.|M|1|18|
+25|DancingGirl|She's wearing thigh-high boots, and short skirt and a skimpy top.  And she can move!|F|1|18|
+26|Assistant|She's a small chinese woman with long black hair.|F|1|20|
+27|Soldier|They are wearing an army uniform.|M|3|25|
+28|Footballer|He's wearing the strip of the San Torino football squad.|M|20|20|
+29|Hero|He looks simply amazing.  Words cannot describe how amazing he looks.|M|20|30|
+30|Masseur|She is a young oriental woman in a short white coat.  She has long black hair (though it is tied up at the moment) and pale skin.  Her make-up has been expertly applied.|F|1|18|
+31||She is an old woman wearing the official hotel uniform.|F|1|20|
+32|Yazuka|They are of oriental original, and is wearing a blue chefs outfit.|M|20|20|
+33|Mafia|They are of italian original, and is wearing a smart black suit and tie.|M|20|20|
+34|Pawnbroker|He's a fat unshaven character with lots if tattoos.|M|1|20|
+35|PizzaChef|He's a large round italian chef, wearing a white apron with a tall chefs hat on.|M|1|18
+36|SpurnedWoman|She's wearing a business outfit.|F|1|20|
+37|Stalker|They are a teenager wearing black clothes with a trainee stuble.|M|1|20|20|

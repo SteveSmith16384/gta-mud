@@ -1,0 +1,13 @@
+This game isn't as forgiving as the original GTA game.  Don't take on someone unless you can handle the consequences!
+You can change your character's description at any time with the command 'SET DESC'.
+Enter 'colour' to toggle colours on and off.
+Read the latest news by entering 'NEWS' once you're in the game.
+One way to find missions is to talk to people.
+Unlike most other mud's, when in combat you must enter the command to fight each "round".  Don't just enter "attack ..." and sit back and wait for the fight to finish - you'll get battered to death!
+To refer to different items that are called the same thing, prefix them with a number and full-stop.  For example, "2.beer", or "3.knife".
+If you are thirsty, buy a drink!
+Game-time runs at approximately 20 times faster than realtime.  So if a shop says it opens at 8 o'clock, and it's 7:40, you will only need to wait one minute of realtime.
+You'll need help to survive in the city.  Try and get some protection.
+You can enter "!" to repeat the last command.
+You can enter a single quote instead of SAY; for example: "'Hello".
+Visit the Online Game Planner at http://www.onlinegameplanner.co.uk to organise all your online gaming sessions with other players.
