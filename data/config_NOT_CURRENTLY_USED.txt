@@ -1,5 +1,0 @@
-PORT=4000
-EMAIL=gta-mud@carlylesmith.karoo.co.uk
-ERROR_LOG=logs/errors.txt
-mail_server=smtp.karoo.co.uk
-mail_from=OnlineGamePlanner@carlylesmith.karoo.co.uk

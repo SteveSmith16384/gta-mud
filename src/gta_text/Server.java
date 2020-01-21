@@ -16,7 +16,7 @@ public class Server extends NetworkMultiServer2 {
 	public static final String CR = "\r\n";
 	public static final boolean DEBUG = false;
 	public static final String VERSION = "0.97";
-	public static final String EMAIL = "gta-mud@carlylesmith.karoo.co.uk";
+	//public static final String EMAIL = "gta-mud@carlylesmith.karoo.co.uk";
 	public static final int PORT = 4000;
 	public static final int MAX_CONNECTIONS = 100;
 	public static final String ERROR_LOG = "logs/errors.txt";
@@ -74,7 +74,7 @@ public class Server extends NetworkMultiServer2 {
 	public static synchronized void SendEmail(String to, String subject, String msg) {
 		try {
 			SmtpMail smtp = new SmtpMail();
-			smtp.simpleSend("smtp.karoo.co.uk", 25, MailAddress.parseAddress("GTAMUD@carlylesmith.karoo.co.uk"), MailAddress.parseAddress(to), subject, msg);
+			smtp.simpleSend("smtp.karoo.co.uk", 25, MailAddress.parseAddress("Todo: Put from address here"), MailAddress.parseAddress(to), subject, msg);
 		} catch (Exception ex) {
 			Server.HandleError(ex);
 		}

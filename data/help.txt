@@ -13,4 +13,3 @@ COMBAT COMMANDS: ATTACK, PUNCH, SHOOT, KICK, STAB
 
 Enter 'HELP [command]' for specific information on that command.
 
-If you need any more help, please email gta-help@carlylesmith.karoo.co.uk.

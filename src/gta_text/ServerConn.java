@@ -23,7 +23,7 @@ import gta_text.npcs.CanBeRobbed;
 
 public class ServerConn extends NetworkMultiServerConn2 implements Runnable {
 
-    private static final String EMAIL = "stephen.carlylesmith@googlemail.com";
+    //private static final String EMAIL = "stephen.carlylesmith@googlemail.com";
     private static final boolean DEBUG_COMMS = false;
 	public static final boolean DEBUG_OBJS = true;
 
@@ -928,9 +928,6 @@ public class ServerConn extends NetworkMultiServerConn2 implements Runnable {
 					cmdSimpleEmote("stand");
 				} else if (i_uc.startsWith("SMIRK")) {
 					cmdSimpleEmote("smirk");
-				} else if (i_uc.startsWith("CRY")) {
-					cmdSimpleEmote("cry");
-					this.sendOutput("If you need any help, just email " + Server.EMAIL + ".");
 				} else if (i_uc.startsWith("SMILE")) {
 					cmdSimpleEmote("smile");
 				} else if (i_uc.startsWith("SHIT")) {
@@ -1695,7 +1692,7 @@ public class ServerConn extends NetworkMultiServerConn2 implements Runnable {
 			tf.close();
 			this.sendOutput("You write '" + s + "' on the noticeboard.");
 
-			Server.SendEmail(EMAIL, "New noticeboard message", s);
+			Server.SendEmail("todo", "New noticeboard message", s);
 		} else {
 			this.sendOutput("There is no noticeboard here.");
 		}
@@ -1707,11 +1704,11 @@ public class ServerConn extends NetworkMultiServerConn2 implements Runnable {
 		admin.append(msg);
 		admin.append("");
 		this.sendOutput("Message sent.");
-		Server.SendEmail(EMAIL, "New Admin Message", msg);
+		Server.SendEmail("todo", "New Admin Message", msg);
 	}
 
 	private void cmdCredits() throws IOException {
-		this.sendOutput("GTA-MUD was designed and written by Stephen Carlyle-Smith (scs@carlylesmith.karoo.co.uk).");
+		this.sendOutput("GTA-MUD was designed and written by Stephen Carlyle-Smith (stephen.carlylesmith@googlemail.com).");
 	}
 
 	private void cmdLook() throws IOException {

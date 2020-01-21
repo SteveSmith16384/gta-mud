@@ -18,7 +18,7 @@ Welcome to..
                  \/                         The MUD!
 
           Web: http://www.carlylesmith.karoo.net/gta-mud/
-              Email: gta-mud@carlylesmith.karoo.co.uk
+              Email: TODO
 
 GTA-MUD is a MUD based on the GTA universe.  Run around, shoot the cops, steal the cash, and then pay (or avoid) the consequences!  This game is not endorsed or affiliated with the original GTA games or any of the people/companies involved with it.
 
